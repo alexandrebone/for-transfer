@@ -9,7 +9,7 @@
             <attachment-type>Current</attachment-type>
             <kernel-type>keops</kernel-type>
             <kernel-width>5</kernel-width>
-            <filename>data/ForInitialization__Template__FromUser.vtk</filename>
+            <filename>data/DeterministicAtlas__Reconstruction__mesh__subject_colin27.vtk</filename>
             <noise-std>3.0</noise-std>
         </object>
     </template>
